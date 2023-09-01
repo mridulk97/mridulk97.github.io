@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mridul.github.io/al-folio/sitemap.xml
+Sitemap: https://khurana.github.io/al-folio/sitemap.xml
