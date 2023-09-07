@@ -16,8 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi :wave: Welcome to my personal space !
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A little about me. I am a Computer Science Master’s student at Virginia Tech and I am currently working as a Graduate Research Assistant at the Knowledge-guided Machine Learning Lab under the guidance of my advisor Prof. Anuj Karpatne. Previously, I had completed by Bachelor’s from BITS Pilani, India in Computer Science and later worked as a Data scientist at Oracle for a year and a half before finally joining VT.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary research interests since undergrad have been in the Machine Learning domain. While I explored multiple diverse areas in ML during my undergrad, at Oracle, my primary area of work was Machine Learning in Financial domain. Presently, my research interests include Knowledge-guided Machine Learning, Natural Language Processing and multi-modal learning problems. Moreover, I am also interested in Applied ML research in the domains of climate science and social media analytics.
+
+My current work is in Ecological forecasting using Deep Learning. The focus is on lake water quality modeling using a hybrid of Ecological and Machine Learning models. Primarily, my research involves sequential deep learning models and Time-Series (TS) forecasting, especially knowledge transfer in TS forecasting.
+
+Apart from academia, I love spending time outdoors, especially cycling in the beautiful trails of Blacksburg and going for hikes. Moreover, I am passionate about soccer and table tennis, and recently have started learning the violin too !
