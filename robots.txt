@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://khurana.github.io/sitemap.xml
+Sitemap: https://mridulk97.github.io/sitemap.xml
