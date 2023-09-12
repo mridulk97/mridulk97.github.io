@@ -17,7 +17,7 @@ nav_order: 1
     * denotes equal contribution
   </p>  
 
-    <h3><b>Conference Proceedings</b></h3>
+  <h3><b>Conference Proceedings</b></h3>
   {% bibliography -f papers -q @*[category=Conference Proceedings]  %}
 
   <h4><b>Workshop Papers</b></h4>
