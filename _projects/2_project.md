@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Change Detection
+description: Remote sensing image change detection
 importance: 2
 category: work
-giscus_comments: true
+redirect: https://sites.google.com/vt.edu/image-change-detection
 ---
 
 Every project has a beautiful feature showcase page.
