@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Offline RL with transformers
+description: Can Transformers Solve Real-World Reinforcement Learning Problems?
+redirect: https://github.com/mridulk97/DT_real-world/blob/main/DT_real-world_report.pdf
 importance: 3
 category: work
 ---
