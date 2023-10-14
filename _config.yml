@@ -6,10 +6,10 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mridul
 middle_name:
 last_name: Khurana
-email: mridul@vt.edu
+# email: mridul@vt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mridul Khurana's personal website
-footer_text: > To contact me, email me at mridul [ at ] vt [dot] edu.
+footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -106,8 +106,8 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
-contact_note: # You can even add a little note about which of these is the best way to reach you.
-
+contact_note: To contact me, email me at bansal01 [ at ] umd [dot] edu. # You can even add a little note about which of these is the best way to reach you.
+   
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
