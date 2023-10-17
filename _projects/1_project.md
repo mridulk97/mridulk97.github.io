@@ -5,7 +5,7 @@ description: Sequential Emotion Recognition in Conversations
 importance: 1
 category: work
 redirect: https://github.com/mridulk97/emotion_recognition
-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Ftask%2Femotion-recognition-in-conversation&psig=AOvVaw0h8yPGJaSLK6SYyF493Z1i&ust=1697598144435000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjBn4SM_IEDFQAAAAAdAAAAABAJ
+img: assets/img/emotion.jpg
 ---
 
 Every project has a beautiful feature showcase page.
