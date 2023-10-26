@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💻 Oral + Poster presented at CVPR 2023 : CV4Animals workshop!
+💻 Oral & Poster presented at CVPR 2023 : CV4Animals workshop!
