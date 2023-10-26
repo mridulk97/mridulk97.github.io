@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💻 Oral + Paper presented at KDD 2023!
+💻 Oral & Paper presented at KDD 2023!
