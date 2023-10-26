@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💻 Gave a talk and presented a paper at KDD 2023!
+💻 Oral + presented a paper at KDD 2023!
