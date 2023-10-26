@@ -5,6 +5,7 @@ description: Remote sensing image change detection
 importance: 2
 category: work
 redirect: https://sites.google.com/vt.edu/image-change-detection
+img: assets/img/change-detection.jpg
 ---
 
 Every project has a beautiful feature showcase page.
