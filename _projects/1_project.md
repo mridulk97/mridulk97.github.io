@@ -4,7 +4,7 @@ title: Emotion Recognition
 description: Sequential Emotion Recognition in Conversations
 importance: 1
 category: work
-redirect: https://github.com/mridulk97/emotion_recognition
+redirect: https://github.com/mridulk97/emotion_recognition/blob/master/Sequential%20Emotion%20Recognition%20in%20Conversations.pdf
 img: assets/img/emotion.jpg
 ---
 
