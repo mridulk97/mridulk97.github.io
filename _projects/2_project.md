@@ -2,7 +2,7 @@
 layout: page
 title: Change Detection
 description: Remote sensing image change detection
-importance: 2
+importance: 4
 category: work
 redirect: https://sites.google.com/vt.edu/image-change-detection
 img: assets/img/change-detection.jpg
