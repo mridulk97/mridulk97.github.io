@@ -3,7 +3,7 @@ layout: page
 title: Numeral Aware Headline Generation
 description: Generating news headlines using LLMs which are numerically correct.
 redirect: https://github.com/mridulk97/numeval
-importance: 3
+importance: 1
 category: work
 ---
 
