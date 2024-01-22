@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Numeral Aware Headline Generation
-description: Generating news headlines using LLMs which are numerically correct.
+title: Numeral Aware LLMs
+description: Generating news headlines using LLMs that are numerically correct.
 redirect: https://github.com/mridulk97/numeval
 importance: 1
 category: work
