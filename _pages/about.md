@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MS Computer Engineer at Virginia Tech
+subtitle: PhD Computer Science at Virginia Tech
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-A little about me: I am a Computer Engineering Master’s student at [Virginia Tech](https://cs.vt.edu) and I am currently working as a Graduate Research Assistant at the Science-Guided Machine Learning Lab under the guidance of my advisor [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). 
+A little about me: I am a second-year PhD student in Computer Science at [Virginia Tech](https://cs.vt.edu) and I am currently working as a Graduate Research Assistant at the Science-Guided Machine Learning Lab under the guidance of my advisor [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). 
 Previously, I had completed my Bachelor’s from Delhi Technological University, India in Electrical Engineering and later worked as a Software Engineer at Fractal Analytics and a Quantitative Trading startup (Theremi.ai) before finally joining VT.
 
 My current research interests are in Generative AI and Multi-modal learning. I am using text, graphs, and science guidance for Computer Vision models. I am also interested in AI for Science.
