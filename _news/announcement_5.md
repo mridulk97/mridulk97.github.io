@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper Accepted at Imageomics Workshop @ AAAI 2024 ! 
+Paper Accepted at Imageomics Workshop @ AAAI 2024 ! [[video](https://drive.google.com/file/d/1gJl9FXlKKNmMZ0QzQNeEAxGeb-hJ1yxa/view?usp=sharing)]
