@@ -2,7 +2,7 @@
 layout: page
 title: Numeral Aware LLMs
 description: Generating news headlines using LLMs that are numerically correct.
-redirect: https://github.com/mridulk97/numeval
+redirect: https://github.com/mridulk97/numeval/blob/main/report/Numeval_Report.pdf
 importance: 1
 category: work
 img: assets/img/numeval.png
