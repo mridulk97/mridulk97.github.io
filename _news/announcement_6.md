@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 Paper Accepted at ECCV 2024 ! [[Phylo-Diffusion](https://imageomics.github.io/phylo-diffusion/)]
+[[Phylo-Diffusion](https://imageomics.github.io/phylo-diffusion/)] Paper is Accepted at ECCV 2024!
