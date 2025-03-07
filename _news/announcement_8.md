@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[[VLM4Bio](https://arxiv.org/abs/2408.16176)] is accepted to NeurIPS 2024. A new benchmark dataset for VLMs!
+📜 [VLM4Bio](https://arxiv.org/abs/2408.16176) is accepted to NeurIPS 2024. A new benchmark dataset for VLMs!

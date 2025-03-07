@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[[Phylo-Diffusion](https://imageomics.github.io/phylo-diffusion/)] Paper is Accepted at ECCV 2024!
+📜 [Phylo-Diffusion](https://imageomics.github.io/phylo-diffusion/) is Accepted at ECCV 2024! Introducing Graph Modality to Diffusion.
